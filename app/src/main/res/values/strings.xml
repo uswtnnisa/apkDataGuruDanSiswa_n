@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">apkDataGuruDanSiswa_ns</string>
+    <string name="button">Button</string>
+    <string name="buttonn">Button</string>
+    <string name="smk_n_1_sayung">SMK N 1 SAYUNG</string>
+    <string name="data_siswa_dan_guru">DATA SISWA DAN GURU</string>
+    <string name="data_guru_dan_siswa">DATA GURU DAN SISWA</string>
+    <string name="smkn_1_sayung">SMKN 1 SAYUNG</string>
+    <string name="data_siswa">Data Siswa</string>
+    <string name="nama_uswatun_nisa">Nama : Uswatun Nisa</string>
+    <string name="no_absen_31">NO Absen : 31</string>
+    <string name="kelas_xi_pplg_2">Kelas : XI PPLG 2</string>
+    <string name="ttl_demak_05_08_2006">TTL : Demak, 05-08-2006</string>
+    <string name="alamat_jl_tugu_merdeka_desa_tugu_rt_01_rw_01_kec_sayung_kab_demak_jawa_tengah_indoneis_bumi">Alamat : Jl.Tugu Merdeka, Desa Tugu RT.01/RW.01 Kec.Sayung Kab.Demak Jawa Tengah Indoneis Bumi</string>
+    <string name="nis_2233308">NIS : 2233308</string>
+    <string name="data_diri_guru">Data Diri Guru</string>
+    <string name="nama_aries_kristiyanto_darmawan">Nama : ARIES KRISTIYANTO DARMAWAN</string>
+    <string name="nip_19870413202211004">NIP : 19870413202211004</string>
+    <string name="mata_pelajaran_bimbingan_konseling">Mata Pelajaran : BIMBINGAN KONSELING</string>
+    <string name="smk_negeri_1_sayung">SMK N 1 SAYUNG</string>
+    <string name="guru">Guru</string>
+    <string name="siswa">Siswa</string>
+</resources>
